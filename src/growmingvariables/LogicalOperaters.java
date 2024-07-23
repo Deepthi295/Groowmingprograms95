@@ -8,8 +8,8 @@ Boolean b1 = true;
 Boolean b2 = false ;
 System.out.println("b1&&b2:"+(b1&&b2));
 System.out.println("b1||b2:"+(b1||b2));
-System.out.println("!(b1&&b2)"+!(b1&&b2));
-System.out.println("!(b1||b2)"+!(b1||b2));
+System.out.println("!(b1&&b2):"+!(b1&&b2));
+System.out.println("!(b1||b2):"+!(b1||b2));
 	}
 
 }
